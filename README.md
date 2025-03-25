@@ -40,10 +40,6 @@ Start the development server using the following command:
 
 You will see a QR code in your terminal. Scan this QR code with your device to open the app in Expo Go.
 
-### Alternative: Run on Emulator/Simulator
-
-To run the app on an Android emulator or iOS simulator, press `a` for Android or `i` for iOS after running `npx expo start`.
-
 ## Local Builds
 -------------
 
