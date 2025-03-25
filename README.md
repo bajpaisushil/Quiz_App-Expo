@@ -37,9 +37,19 @@ Start the development server using the following command:
 `npx expo start
 `
 
-
 You will see a QR code in your terminal. Scan this QR code with your device to open the app in Expo Go.
 
+
+![quiz-app-3](https://github.com/user-attachments/assets/27c0afbd-bf9d-44e5-a162-1a390b50a9fe)
+
+
+![quiz-app-4](https://github.com/user-attachments/assets/0ac6d55a-6392-4e13-8a66-6e61adcbdc1b)
+
+
+![quiz-app-1](https://github.com/user-attachments/assets/179dbec4-4a90-44d9-b86b-dae8131c856f)
+
+
+![quiz-app-2](https://github.com/user-attachments/assets/325f7afe-fd21-4e13-8803-03c07f8520f8)
 
 
 ## Contributing
