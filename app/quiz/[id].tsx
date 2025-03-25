@@ -8,7 +8,7 @@ import { quizzes } from '@/data/quizzes';
 export default function QuizScreen() {
   const { id } = useLocalSearchParams();
   const router = useRouter();
-  const quiz = quizzes.find((q) => q.id === id);
+  const quiz = quizzes.find((q) => q.id===id);
 
   const [currentQuestionIndex, setCurrentQuestionIndex] = useState(0);
   const [selectedOption, setSelectedOption] = useState<number | null>(null);
