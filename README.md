@@ -40,10 +40,6 @@ Start the development server using the following command:
 
 You will see a QR code in your terminal. Scan this QR code with your device to open the app in Expo Go.
 
-## Local Builds
--------------
-
-To build the app locally for testing or personal use, follow these steps:
 
 
 ## Contributing
